@@ -1,0 +1,1 @@
+This project is to teach us how to create and setup Git and Github account, learning git commands, create new repositories and push/pull/merge repositories.

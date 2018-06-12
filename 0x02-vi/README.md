@@ -1,0 +1,1 @@
+This project teaches us how to learn and use basic vi commands

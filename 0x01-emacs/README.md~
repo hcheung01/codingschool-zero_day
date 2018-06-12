@@ -1,0 +1,1 @@
+## This project is about installing and learning the commands of EMACS.
